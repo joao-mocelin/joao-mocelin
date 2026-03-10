@@ -1,14 +1,36 @@
-### Hi there 👋
-<div align="center">
-  <a href="https://github.com/joao-mocelin">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=joao-mocelin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-mocelin&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div>
-  <img height="40em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img height="40em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="40em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="40em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java logo">
+<h1 align="center">Hi there 👋</h1>
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-mocelin-8119443b4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mocelin_joao/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joao-mocelin&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=50&order=3" height="" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/joao-mocelin/joao-mocelin/output/snake.svg" alt="Snake animation" />
+
+###
