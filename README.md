@@ -23,11 +23,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joao-mocelin&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=50&order=3" height="" alt="streak graph"  />
-</div>
 
 ###
 
