@@ -1,14 +1,14 @@
-# Hi there, I'm João Mocelin 👋
+# Hi there, I'm João 👋
 
 Computer Science Student @ UDESC | Actively Learning Data Science & ML
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Undergraduate student in **Computer Science** at Universidade do Estado de Santa Catarina (UDESC).
 - 🔬 Researcher in **Scientific Initiation (IC)**, currently studying and building my first workflows in Data Science and Machine Learning.
-- 💻 Solid foundation in **C/C++**, focusing on pointer arithmetic, dynamic memory allocation, and fundamental data structures.
+- 💻 Solid foundation in **C**, focusing on pointer arithmetic, dynamic memory allocation, and fundamental data structures.
 - 📈 Actively expanding my knowledge in **Python** for data analysis, working on initial concepts of data pipelines, statistical modeling, and ML fundamentals.
 
 ---
